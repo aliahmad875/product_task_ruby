@@ -33,6 +33,6 @@ Please Follow these Steps
 
 # Run test case copy menue_test.rb copy file path 
 
-6- 'rake `COPYPATH`'
+6- 'ruby `COPYPATH`'
 
 	=> EX - `COPYPATH` = /home/ali-ahmad/Videos/test/products_cli/test/menu_test.rb
