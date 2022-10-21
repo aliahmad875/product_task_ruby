@@ -1,4 +1,8 @@
 # README
+# Assumptions:
+ 1. We assume that there is only one discount that is applied on a complete order. Like if a user buys 3 or more strawberries with 3 or more coffees then we apply the discount that benefits our customer like in strawberry user save 5€ and in coffee the user saves 7€ then we apply 7€ discount instead of 5€ because it benefits more.
+
+
 Please Follow these Steps
 
 # Run this command Install bundler and bundle
